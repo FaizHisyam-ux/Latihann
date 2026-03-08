@@ -5,4 +5,4 @@ def avg(data):
     return total / len(data)
 
 
-print(avg([10,20,30]))
+print(avg([10, 20, 30]))
