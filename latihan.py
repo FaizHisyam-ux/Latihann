@@ -1,4 +1,3 @@
-
 def avg(data):
     total=0
     for d in data:
